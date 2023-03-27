@@ -135,6 +135,8 @@ int print_hexa_upper(va_list types, char buffer[],
  * @types: arguments
  * @buffer: buffer array to handle print
  * @flags: active flags
+ * @map_to: variable
+ * @flag_ch: variable
  *
  * Return: Number of characters printed.
  */
